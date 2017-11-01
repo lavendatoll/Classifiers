@@ -1,0 +1,6 @@
+﻿  main.cpp
+  image_process.cpp
+c:\users\lfrha\desktop\my document\2017 spring\introduction of ai\homework\final project\mira\face\face\image_process.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Face.vcxproj -> C:\Users\lfrha\Desktop\My document\2017 Spring\Introduction of AI\Homework\Final Project\MIRA\Face\Debug\Face.exe
+  Face.vcxproj -> C:\Users\lfrha\Desktop\My document\2017 Spring\Introduction of AI\Homework\Final Project\MIRA\Face\Debug\Face.pdb (Partial PDB)

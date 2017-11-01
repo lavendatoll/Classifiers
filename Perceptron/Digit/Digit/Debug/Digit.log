@@ -1,0 +1,6 @@
+﻿  main.cpp
+  image_process.cpp
+c:\users\lfrha\desktop\my document\2017 spring\introduction of ai\homework\final project\perceptron\digit\digit\image_process.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Digit.vcxproj -> C:\Users\lfrha\Desktop\My document\2017 Spring\Introduction of AI\Homework\Final Project\Perceptron\Digit\Debug\Digit.exe
+  Digit.vcxproj -> C:\Users\lfrha\Desktop\My document\2017 Spring\Introduction of AI\Homework\Final Project\Perceptron\Digit\Debug\Digit.pdb (Partial PDB)

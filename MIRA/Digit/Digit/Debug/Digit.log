@@ -1,0 +1,4 @@
+﻿  image_process.cpp
+c:\users\lfrha\desktop\my document\2017 spring\introduction of ai\homework\final project\mira\digit\digit\image_process.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Digit.vcxproj -> C:\Users\lfrha\Desktop\My document\2017 Spring\Introduction of AI\Homework\Final Project\MIRA\Digit\Debug\Digit.exe
+  Digit.vcxproj -> C:\Users\lfrha\Desktop\My document\2017 Spring\Introduction of AI\Homework\Final Project\MIRA\Digit\Debug\Digit.pdb (Partial PDB)
